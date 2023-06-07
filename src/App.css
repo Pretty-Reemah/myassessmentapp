@@ -1,0 +1,25 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-sizing: border-box;
+}
+
+.App{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: lavenderblush;
+  width: 45rem;
+  height: 25rem;
+  color: blue;
+  border-radius: 20px;
+  font-weight: 900;
+  margin-top: 100px;
+  margin-left: 450px;
+}
+
+.Userinput{
+  background-color: white;
+  border-radius: 10px;
+}
+
